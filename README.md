@@ -1,3 +1,3 @@
-Learning react query throght a mini project
+Learning react query through a mini project
 // comments are made to understand the code
 
